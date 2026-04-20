@@ -10,7 +10,7 @@ metadata:
     argocd/app-name: dssp-sonar-test-3
     backstage.io/kubernetes-id: DSSP-Sonar-Test-3
     backstage.io/kubernetes-namespace: default
-    sonarqube.org/project-key: DSSP-Sonar-Test-3/backstage
+    sonarqube.org/project-key: dssp-sonar-test-3
 
 spec:
   type: service
